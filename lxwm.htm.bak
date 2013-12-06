@@ -1,0 +1,367 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<meta http-equiv="Content-Type"
+content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<title>流星工作室 http://www.liuyq.net</title>
+
+
+</script><style type="text/css">
+<!--
+
+-->
+</style>
+<link rel="stylesheet" href="css.css" type="text/css">
+<meta http-equiv="Content-Type"
+content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<title>流星工作室 http://www.liuyq.net</title>
+
+
+</script><style type="text/css">
+<!--
+
+-->
+</style>
+<link rel="stylesheet" href="css.css" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<TITLE>欢 迎 访 问 和 平 药 业 网 站</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312"><LINK 
+href="欢 迎 访 问 和 平 药 业 网 站.files/style.css" type=text/css rel=stylesheet>
+<SCRIPT language=JavaScript>
+<!--
+
+
+
+
+
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</SCRIPT>
+
+<META content="Microsoft FrontPage 4.0" name=GENERATOR>
+<TITLE>在线服务-[左轮.创意]</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content=本网页由-[中国.广州市左轮创意设计有限公司]-设计制作>
+<STYLE type=text/css>BODY {
+	FONT-SIZE: 9pt
+}
+TABLE {
+	FONT-SIZE: 9pt
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:unknown {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0000ff
+}
+</STYLE>
+
+<SCRIPT language=JavaScript>
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</SCRIPT>
+
+<META content="Microsoft FrontPage 4.0" name=GENERATOR>
+</head>
+
+<body text="#000000" bgColor="#cccccc" leftMargin="20" topMargin="0" marginheight="0" marginwidth="0">
+
+
+<p align="center">　<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0043)http://724cn.51.net/openmenu/contening.html -->
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 width=730 bgColor=#999966 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center noWrap width="175" bgColor=#CCCCCC height=22>
+      <P align=center>
+      <SCRIPT language=JavaScript>                                                  
+                          
+<!--                                                                                   
+                          
+tmpDate = new Date();                                                                  
+                          
+date = tmpDate.getDate();                                                               
+                          
+month= tmpDate.getMonth() + 1 ;                                                         
+                          
+year= tmpDate.getYear();                                                                
+                          
+document.write(year);                                                                   
+                          
+document.write("年");                                                                    
+                          
+document.write(month);                                                                 
+                          
+document.write("月");                                                                   
+                          
+document.write(date);                                                                   
+                          
+document.write("日");                                                                     
+                          
+// -->                                                                                 
+                          
+</SCRIPT>
+
+      <SCRIPT language=JavaScript>                                                 
+                          
+<!-- document.write("<center>")                                                         
+                          
+now = new Date() //定义新对象，new具有Date的性质                                         
+                          
+if (now.getDay() == 5) document.write("星期五")                                          
+                          
+if (now.getDay() == 6) document.write("星期六")                                          
+                          
+if (now.getDay() == 0) document.write("星期日")                                          
+                          
+if (now.getDay() == 1) document.write("星期一")                                         
+                          
+if (now.getDay() == 2) document.write("星期二")                                          
+                          
+if (now.getDay() == 3) document.write("星期三")                                         
+                          
+if (now.getDay() == 4) document.write("星期四")                                         
+                          
+//-->                                                                             
+</SCRIPT>
+      </P></TD>
+    <TD vAlign=center width="551" bgColor=#CCCCCC height=22>
+      　</TD></TR>
+  <CENTER>
+  </CENTER></TBODY></TABLE></DIV>
+<div align="center">
+  <center>
+  <table border="1" width="683" height="76" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="102" height="1" rowspan="2" bgcolor="#C0C0C0" valign="top">
+        <p align="center">
+            <img border="0" src="ccjy009.jpg" width="96" height="93">
+        <p align="center"><font size="2"><b>&nbsp;</b></font><a href="gsjj.htm"><font size="2"><b>公司简介</b></font></a><font size="2"><b>&nbsp;</b></font></p>
+            <p align="center"><a href="zypz.htm"><b><font size="2">主要品种</font></b></a></p>
+            <p align="center"><a href="zlbz.htm"><b><font size="2">质量保证</font></b></a></p>
+            <p align="center"><b><a href="sctz.htm">市场拓展</a></b></p>
+            <p align="center"><a href="qywh.htm"><font size="2"><b>企业文化</b></font></a></p>
+                
+            <p align="center"><b><a href="jg.htm">结构</a></b></p>
+                
+            <p align="center"><a href="lxwm.htm"><b><font size="2" color="#FF0000">联系我们</font></b></a></p>
+                
+            <p align="center"><b><font size="2"><a href="index.htm">首页</a></font></b></p>
+                
+        <p>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td width="575" height="1" rowspan="2" bgcolor="#C0C0C0">
+</center>
+<TABLE cellSpacing=0 cellPadding=0 width=575 align=center border=0 height="178">
+  <TBODY>
+  <TR>
+    <TD width=2 bgColor=#dfdfdf height=73></TD>
+    <TD vAlign=top width=569 bgColor=#ffffff height=73>
+      <DIV align=center style="width: 569; height: 463"><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=499 align=center border=0 height="482">
+        <TBODY>
+        <TR>
+          <TD vAlign=bottom width=131 height=49 bgcolor="#CCCCCC"><font color="#FFFFFF">&nbsp;<img border="0" src="Point.gif" width="9" height="9"> 
+            <b></b></font>   
+            <b>联系我们</b>
+            <hr>
+          </TD>
+          <TD vAlign=center width=368 height=482 rowspan="15" bgcolor="#DFDFDF">
+            <SCRIPT language=JavaScript>
+<!--
+function validate_form() {
+  validity = true;
+  if (!check_empty(document.form.NAME.value))
+        { validity = false; alert('对不起!请您填入您的姓名。'); }
+  if (!check_email(document.form.EMAIL.value))
+        { validity = false; alert('对不起!请重新正确填入Email地址。'); }
+  if (!check_empty(document.form.DESCRIPTION.value))
+        { validity = false; alert('对不起!请您在"简要描述"留言填入留言。'); }
+  if (validity)
+        alert ("谢谢您的留言."
+                + "你所填的信息将以Email形式发送给我,"
+                + "希望您经常光顾本站。");
+  return validity; 
+}
+
+function check_empty(text) {
+  return (text.length > 0); 
+}
+
+function check_email(address) {
+  if ((address == "")
+    || (address.indexOf ('@') == -1)
+    || (address.indexOf ('.') == -1))
+      return false;
+  return true;
+}
+
+// -->
+              </SCRIPT>
+
+            <FORM name=form onSubmit="return validate_form()" 
+            action=mailto:wdc@public.cc.jl.cn?SUBJECT=您的留言 method=post 
+            encType=text/plain>
+            <TABLE cellSpacing=0 cellPadding=0 width="349" align=right 
+              border=0 height="31"><TBODY>
+              <TR>
+                <TD height=88 width="356"><FONT size=3><B></B></FONT>
+                  <DIV align=left style="width: 351; height: 280">
+                  <TABLE borderColor=#cccccc cellSpacing=1 cellPadding=0 
+                  width="99%" border=1>
+                    <TBODY>
+                    <TR>
+                      <TD width="23%" bgcolor="#FFFFFF"><FONT size=2><B><FONT 
+                        color=#ffffff>.</FONT><FONT 
+                        color=#000000>姓</FONT></B></FONT><FONT 
+                        color=#ffffff>...</FONT><FONT color=#000000 
+                        size=2><B>名:</B></FONT> </TD>
+                      <TD width="75%" bgColor=#FFFFFF height=30><INPUT size=18 
+                        name=NAME> </TD></TR>
+                    <TR>
+                      <TD width="23%" bgcolor="#FFFFFF"><B><FONT color=#ffffff 
+                        size=1>.</FONT><FONT color=#000000 size=2>E</FONT><FONT 
+                        color=#000000 size=1>-</FONT><FONT color=#000000 
+                        size=2>mail:</FONT></B></TD>
+                      <TD width="75%" bgColor=#FFFFFF height=30><INPUT size=18 
+                        name=EMAIL> </TD></TR>
+                    <TR>
+                      <TD width="23%" bgcolor="#FFFFFF"><B><FONT size=2><B><FONT 
+                        color=#ffffff>.</FONT></B></FONT><FONT color=#000000 
+                        size=2>U</FONT><FONT color=#ffffff>.</FONT><FONT 
+                        color=#000000> </FONT><FONT color=#000000 
+                        size=2>R</FONT><FONT color=#ffffff>.</FONT><FONT 
+                        color=#000000 size=2>L</FONT><FONT color=#000000 
+                        size=2>:</FONT></B></TD>
+                      <TD width="75%" bgColor=#FFFFFF height=30><INPUT size=18 
+                        value=http:// name=URL> </TD></TR></TBODY></TABLE><BR><B><FONT 
+                  color=#000000 size=2>留言内容:</FONT></B><BR><TEXTAREA tabIndex=1 name=DESCRIPTION rows=8 cols=47></TEXTAREA> 
+                  </DIV></TD></TR>
+              <TR>
+                <TD align=right width="354" height=56 valign="top">
+                  <p><BR><BR><INPUT type=submit value=发送 name=submit> <INPUT type=reset value=清除 name=reset>   
+                  </p>
+                </TD>
+              </TR>
+              <tr>
+                <TD align=right width="354" height=26 bgcolor="#C0C0C0">
+                  <p align="left"><font size="2"><span style="mso-bidi-font-size: 10.0pt; font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">地址：长春市经济技术开发区1299号   
+                  邮编：130033</span></font> 
+                </TD> 
+              </tr> 
+              <tr> 
+                <TD align=right width="354" height=31 bgcolor="#C0C0C0"> 
+                  <p align="left"> 
+                  <font size="2"><span style="mso-bidi-font-size: 10.0pt"><span style="mso-bidi-font-size: 10.0pt; font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman">电子信箱：</span></span></font> 
+                  </p> 
+                </TD> 
+              </tr> 
+              <tr> 
+                <TD align=right width="354" height=24 bgcolor="#C0C0C0"> 
+                </TD> 
+              </tr> 
+              </TBODY></TABLE></FORM></TD></TR> 
+        <tr> 
+          <TD vAlign=middle width=131 height=18 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;办公室：84634271</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=middle width=131 height=18 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;商务部：84603299</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=15 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;采购部：84603292</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=18 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;财务部：84603290</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=19 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;质管部：84603269</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=17 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;生产部：84803289</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=19 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;工程部：84603298</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=18 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;值班室：84603284</font></TD> 
+        </tr> 
+        <tr> 
+          <TD vAlign=bottom width=131 height=17 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;传&nbsp;  
+            真：84603277</font></TD>  
+        </tr>  
+        <tr>  
+          <TD vAlign=bottom width=131 height=20 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;</font></TD>  
+        </tr>  
+        <tr>  
+          <TD vAlign=bottom width=131 height=14 bgcolor="#C0C0C0"><font color="#FFFFFF">&nbsp;</font></TD>  
+        </tr>  
+        <tr>  
+          <TD vAlign=bottom width=131 height=11 bgcolor="#C0C0C0">　</TD>
+        </tr>
+        <tr>
+          <TD vAlign=bottom width=131 height=12 bgcolor="#C0C0C0">　</TD>
+        </tr>
+        <tr>
+          <TD vAlign=bottom width=131 height=205 bgcolor="#C0C0C0"><img border="0" src="rl.jpg" width="128" height="146"></TD>
+        </tr>
+        </TBODY></TABLE></DIV></TD>
+  </TR>
+  <TR>
+    <TD width=2 bgColor=#dfdfdf height="21"></TD>
+    <TD bgColor=#808080 width="569" height="21">
+      <DIV align=center>&nbsp;</DIV></TD></TR></TBODY></TABLE>
+<p align="center"><span style="TEXT-TRANSFORM: uppercase"><font size="2">COPYRIGHT&copy;2003 
+长春精优药业股份药业有限公司 版权所有</font></span></p>                   
+      　
+</table>
+</BODY></HTML>
